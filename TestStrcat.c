@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-//Test hàm nối chuỗi strcat
+//Test hàm nối chuỗi strcat (concatenate)
 int main() {
     char dest[20] = "Hello, ";
     char src[10] = "World!";
