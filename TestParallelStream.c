@@ -1,7 +1,7 @@
 #include<windows.h>
 #include<stdio.h>
 int x=0, y=1;
-
+int z =3;
 void T1(){
     while(1){x=y+1; printf("%4d", x);}
 }
